@@ -1,0 +1,12 @@
+#background {
+    height: 725px;
+}
+body {
+    background-color: #D3DDD0; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
