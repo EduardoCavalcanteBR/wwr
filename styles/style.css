@@ -167,7 +167,6 @@ section h2 {
 
 }
 
-
 #background {
     grid-column: 1/11;
     grid-row: 7/14;
@@ -182,8 +181,6 @@ section h2 {
     width: 700px;
     margin-bottom: 100px;
 }
-
-
 .msg {
     grid-column: 6/10;
     grid-row: 9/12;
@@ -192,7 +189,7 @@ section h2 {
     box-shadow: 5px 5px 10px #9c9b99;
     line-height: 1.5em;
     text-align: center;
-    
+   
 }
 .msg h2 {
     margin: 0;
